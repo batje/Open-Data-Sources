@@ -3,6 +3,7 @@
 ## Great
 * [Adam Pearce](http://roadtolarissa.com/)
 * [Oliver O'Brien](http://oobrien.com)
+* [flowing data](http://flowingdata.com/)
 
 ## Mixed Bag
 * [K-Means Visualisation](http://bl.ocks.org/blacki/ebba08223eba20b56b62)
