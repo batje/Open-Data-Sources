@@ -1,7 +1,7 @@
 # Data sources
 
 ### Uncategorised
-*[__UK DataService__](https://www.ukdataservice.ac.uk/)
+* [__EuroStat__](http://ec.europa.eu/eurostat)
 
 ### APIs
 * [__Neighbourhood Statistics Data Exchange__](http://www.neighbourhood.statistics.gov.uk/dissemination/Info.do?page=nde.htm)
@@ -33,6 +33,8 @@
 * [__Office for National Statistics__](http://www.ons.gov.uk)
 * [__NOMIS__](https://www.nomisweb.co.uk/)
  *  Nomis is a service provided by the Office for National Statistics, ONS, to give you free access to the most detailed and up-to-date UK labour market statistics from official sources.
+*  [__UK DataService__](https://www.ukdataservice.ac.uk/)
+
 
 #### England and Wales
 
