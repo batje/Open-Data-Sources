@@ -12,10 +12,10 @@
 ### Mapping
 #### Uncategorised
 #### UK
-* [OS Open Data](https://www.ordnancesurvey.co.uk/business-and-government/products/opendata-products.html)
+* [__OS Open Data__](https://www.ordnancesurvey.co.uk/business-and-government/products/opendata-products.html)
  *Open Map Local - Vector
  *OS Open Roads
- * [__Boundary Lines__](https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html)
+ * [Boundary Lines](https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html)
   * full hierarchy of local government administrative and electoral boundaries in Great Britain
  *OS VectorMap District
  *Miniscale
