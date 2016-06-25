@@ -4,7 +4,8 @@
 
 ### UK Election Data
 #### UK
-[__*full hierarchy of local government administrative and electoral boundaries in Great Britain__](https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html)
+* [__Boundary Lines__](https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html)
+  * full hierarchy of local government administrative and electoral boundaries in Great Britain
 
 #### England and Wales
 
