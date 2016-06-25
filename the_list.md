@@ -1,15 +1,28 @@
+# Data tools
+
 # Data sources
-* [Open Data Monitor](http://project.opendatamonitor.eu/project/)
+* [__Open Data Monitor__](http://project.opendatamonitor.eu/project/)
  * overview of available open data resources 
 
 ### Uncategorised
 * [__EuroStat__](http://ec.europa.eu/eurostat)
+* [__Google Public Data explorer__](http://www.google.com/publicdata/directory)
+* [__AWS Puplice Data Sets__](http://aws.amazon.com/public-data-sets/)
+* [__Reddit DataSets__](https://www.reddit.com/r/datasets/new/)
+* [__Quandl__](https://www.quandl.com/)
+ * financial and economic 
+* [__Datahub__](https://datahub.io/organization)
+ * Welcome to the Datahub, the free, powerful data management platform from the Open Knowledge Foundation, based on the CKAN data management system.  
+* [__Open Product Data__](http://product.okfn.org/)
 
 ### APIs
+* [__***API Directory***__](http://www.programmableweb.com/)
+ * Add really cool ones here!
 * [__Neighbourhood Statistics Data Exchange__](http://www.neighbourhood.statistics.gov.uk/dissemination/Info.do?page=nde.htm)
  * [Guide](http://www.neighbourhood.statistics.gov.uk/HTMLDocs/downloads/About-the-NeSS-Data-Exchange-V2_1.pdf)
 * [__NOMIS__](https://www.nomisweb.co.uk/home/detailedstats.asp)
  * Query or API
+
 
 ### Mapping
 #### Uncategorised
@@ -30,6 +43,7 @@
 ### Numbers and Stats
 #### Uncategorised
 #### UK
+* [UK Open Data Dump](https://data.gov.uk/)
 * [__Consumer Data Research Centre__](https://data.cdrc.ac.uk/)
 * [__Electoral registration__](http://www.ons.gov.uk/peoplepopulationandcommunity/elections/electoralregistration)
  * Annual counts of people listed on electoral registers for the UK and its constituent countries, local government areas and parliamentary constituencies. These figures are based on people registered to vote not people eligible to vote.
@@ -43,5 +57,6 @@
 
 #### Scotland
 * [__Scotlands' Census__](http://www.scotlandscensus.gov.uk/)
+* [__Edinburgh open data portal__](http://edinburghopendata.info/)
 
 #### Northern Island
