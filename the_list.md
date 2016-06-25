@@ -1,4 +1,6 @@
 # Data sources
+* [Open Data Monitor](http://project.opendatamonitor.eu/project/)
+ * overview of available open data resources 
 
 ### Uncategorised
 * [__EuroStat__](http://ec.europa.eu/eurostat)
