@@ -17,6 +17,8 @@
 * [__Open Product Data__](http://product.okfn.org/)
 
 ### APIs
+* [__Overpass Turbo__](http://overpass-turbo.eu/)
+ * Write queries to selectivly export OSM data. 
 * [__***API Directory***__](http://www.programmableweb.com/)
  * Add really cool ones here!
 * [__Neighbourhood Statistics Data Exchange__](http://www.neighbourhood.statistics.gov.uk/dissemination/Info.do?page=nde.htm)
