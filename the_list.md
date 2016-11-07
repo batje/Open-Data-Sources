@@ -31,6 +31,7 @@
 ### Mapping
 #### Uncategorised
 #### UK
+* [  Scotland Spatial Data  ](https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home)
 * [__OS Open Data__](https://www.ordnancesurvey.co.uk/business-and-government/products/opendata-products.html)
  *Open Map Local - Vector
  *OS Open Roads
