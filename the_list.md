@@ -5,6 +5,7 @@
 * [__Open Data Monitor__](http://project.opendatamonitor.eu/project/)
  * overview of available open data resources 
 * [__UK Geographies__](https://www.ons.gov.uk/methodology/geography/ukgeographies/administrativegeography)
+* [Share Geo - UK HE institutes](http://www.sharegeo.ac.uk/)
 
 ### Uncategorised
 * [__EuroStat__](http://ec.europa.eu/eurostat)
