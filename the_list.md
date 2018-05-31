@@ -27,8 +27,11 @@
  * [Guide](http://www.neighbourhood.statistics.gov.uk/HTMLDocs/downloads/About-the-NeSS-Data-Exchange-V2_1.pdf)
 * [__NOMIS__](https://www.nomisweb.co.uk/home/detailedstats.asp)
  * Query or API
-
-
+* [__WhosOnFirst__](https://www.whosonfirst.org/)
+ * Contains 'all' places in the world. Tries to have links to wikdata and other identifiers. You can add more (like constituencies)
+* [__OpenRouteService__](https://openrouteservice.org/)
+ * Its isochrone API can calculate how many people live in a polygon/constituency (which might be harder to do in Wikidata when constituencies are not aligned with administrative units)
+ 
 ### Mapping
 #### Uncategorised
 #### UK
